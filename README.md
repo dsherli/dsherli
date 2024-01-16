@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Java advanced data structures
 - 💞️ I’m looking to collaborate on projects and working towards internships!
-- 📫 How to reach me: my email is dillon.sherling@wsu.edu
+- 📫 How to reach me: my email is dillybean10@comcast.net
 
 <!---
 dsherli/dsherli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
