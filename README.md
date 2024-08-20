@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Dillon Sherling
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Java advanced data structures
-- 💞️ I’m looking to collaborate on projects and working towards internships!
-- 📫 How to reach me: my email is dillybean10@comcast.net
+# Hi there 👋
 
-<!---
-dsherli/dsherli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**I'm [Dillon]**, a [computer science student] at [Washington State Universityu].
+
+### About Me
+* Standing junior, expected to graduate Spring 2026.
+* Aspiring software engineer.
+
+### Skills
+* Programming Languages: [Python, Java, C#, Typescript, Javascript]
+* Frameworks & Tools: [Django, Visual Studio, Visual Studio Code, Jetbrains IDEA]
+
+### Contact
+* Email: [dillybean10@comcast.net]
+* LinkedIn: [https://www.linkedin.com/in/dillon-sherling/]
