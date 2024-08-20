@@ -8,7 +8,7 @@
 
 ### Skills
 * Programming Languages: Python, Java, C#, Typescript, Javascript
-* Frameworks & Tools: Django, Visual Studio, Visual Studio Code, Jetbrains IDEA
+* Frameworks & Tools: Django, Visual Studio, Visual Studio Code, IntelliJ, git, Weka
 
 ### Contact
 * Email: dillybean10@comcast.net
