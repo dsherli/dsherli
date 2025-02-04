@@ -11,5 +11,5 @@
 * Frameworks & Tools: Django, Visual Studio, Visual Studio Code, IntelliJ, git, Weka, Spring Boot, PostgreSQL
 
 ### Contact
-* Email: dillybean10@comcast.net
+* Email: dillon.sherling@wsu.edu
 * LinkedIn: https://www.linkedin.com/in/dillon-sherling/
