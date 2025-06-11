@@ -7,7 +7,7 @@
 * Aspiring software engineer.
 
 ### Skills
-* Programming Languages: Python, Java, C#, Typescript, Javascript
+* Programming Languages: Python, Java, C#, HTML, CSS
 * Frameworks & Tools: Django, Visual Studio, Visual Studio Code, IntelliJ, git, Weka, Spring Boot, PostgreSQL
 
 ### Contact
