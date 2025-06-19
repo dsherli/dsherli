@@ -3,7 +3,7 @@
 **I'm Dillon**, a computer science student at Washington State University.
 
 ### About Me
-* Standing junior, expected to graduate Spring 2026.
+* Standing senior, expected to graduate Spring 2026.
 * Aspiring software engineer.
 
 ### Skills
