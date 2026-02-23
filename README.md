@@ -7,8 +7,8 @@
 * Aspiring software engineer.
 
 ### Skills
-* Programming Languages: Python, Java, C#, HTML, CSS
-* Frameworks & Tools: Django, Visual Studio, Visual Studio Code, IntelliJ, git, Weka, Spring Boot, PostgreSQL
+* Programming Languages: Python, Java, C#
+* Frameworks & Tools: Django, Visual Studio, Visual Studio Code, IntelliJ, git, Weka, Spring Boot, PostgreSQL, Vim
 
 ### Contact
 * Email: dillon.sherling@wsu.edu
